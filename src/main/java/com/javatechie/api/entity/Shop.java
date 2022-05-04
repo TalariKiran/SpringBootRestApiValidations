@@ -36,7 +36,7 @@ public class Shop {
     private String gst;
 
     private String total;
-    @NotEmpty
+    @NotEmpty(message = "Please Enter Expiration Date")
     private String expdate;
 
 }
