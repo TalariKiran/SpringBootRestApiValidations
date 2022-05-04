@@ -32,9 +32,11 @@ public class Shop {
     //@Min(1)
     //@Max(30)
     @Range(min=1,max=30,message="GST should be in Range of 1 and 30")
+    @NotBlank
     private String gst;
 
     private String total;
+    @NotEmpty
     private String expdate;
 
 }
