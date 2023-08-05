@@ -14,7 +14,7 @@ import java.util.List;
 import java.util.Optional;
 
 @RestController
-@RequestMapping("/api/shop")
+@RequestMapping("/api/mypage")
 public class ShopController {
     @Autowired
     private ShopService service;
