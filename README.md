@@ -1,6 +1,7 @@
 # SpringBootRestApiValidations
 This project is built to explain the CRUD operations using SpringBoot Rest API and also we have performed validations for entity fields of database table. 
 Use the below URLs to perform CRUD Operations,
+
 i) Post-> Create Entry-- Use POST end point
 	localhost:9393/api/shop/signup
 	Body Payload:
