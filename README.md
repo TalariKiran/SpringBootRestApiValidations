@@ -26,3 +26,8 @@ iv)Update user details if id exists->Use PUT endpoint
 
 v)Delete user details using userId->Use DELETE endpoint
    localhost:9393/api/mypage/1
+================================
+UI Setup (Need to install Vs code and node)
+1.Go to path PS D:\springboot\client\my-app> 
+2.execute command "npm run start"
+example:PS D:\springboot\client\my-app> npm run start
